@@ -7,6 +7,8 @@ Note if you already installed Box64droid from original github, you don't need to
 Note 2: Box64Droid is goes to /data/user/0/com.termux/files/usr/bin 
 And start-box64, start-box64droid goes to /data/user/0/com.termux/files/home/
 
+Also fixed some localization issues for non-root and virgl versions.
+
 
 # Box64Droid
 Box64Droid is a project with scripts that automate installing preconfigured rootfs with [Box64](https://github.com/ptitSeb/box64), [Box86](https://github.com/ptitSeb/box86), [Wine Stable 8.0](https://github.com/Kron4ek/Wine-Builds), [DXVK](https://github.com/doitsujin/dxvk), [D8VK](https://github.com/AlpyneDreams/d8vk) on Android. Originally was a [fork](https://github.com/Ilya114/Box4Droid) of [Box4Droid](https://github.com/Herick75/Box4Droid) with Box64. Can't launch all games in the world in 4K 60 FPS, note it when you are trying launch AAA games. Project site available [here](https://ilya114.github.io/Box64Droid/). 
@@ -14,7 +16,6 @@ Box64Droid is a project with scripts that automate installing preconfigured root
 Made by guy from [Lysychansk](https://en.wikipedia.org/wiki/Lysychansk), [Luhansk region](https://en.wikipedia.org/wiki/Luhansk_Oblast) of Ukraine.
 
 If you have problems (note what I shouldn't know answer on all your questions like "Why game not working?") you can ask me at:
-
 - [Telegram](https://t.me/box64droidchat)
 - [Discord](https://discord.gg/thjpZ4P7Bm)
 
