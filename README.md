@@ -40,8 +40,9 @@ You also can use Input Bridge, install 0.1.9 apk then just run app in Android an
 
 ## System requirements 
 
-- Adreno 610+ (Other GPUs are supported by VirGL, but many games might not work)
+- Modern gpu (ie. your phone must be made after 2018) (Other GPUs are supported by VirGL, but many games might not work)
 - Android 12+ (non-root, VirGL version), Android 10+ (root version)
+- 6+ GB ram (ideal 8+)
 - 64-bit Android
 - You also need ~4,2GB (for root version), 4,5GB (for non-root version) or ~3,3GB (for VirGL version) worth of free space for the installation to run without problems.
 
@@ -52,7 +53,6 @@ If you want to get more FPS and stability, use the root version (you will need r
 You can choose to use environment variables, there are 3 files, `DXVK_D8VK.conf`, `Box64Droid.conf` and `DXVK_D8VK.conf`. These files are created and found in the `/sdcard/Box64Droid/` folder after the first Box64Droid run.
 
 The `Box64Droid.conf` file is with rootfs, Box86, Box64 and Wine configuration. You can use the Box86 and Box64 environment variables, see all of them [here](https://github.com/ptitSeb/box86/blob/master/docs/USAGE.md#) and [here](https://github.com/ptitSeb/box64/blob/main/docs/USAGE.md). You can add as many variables as you like.
-
 The `DXVK_D8VK_HUD.conf` file is for you to use the environment variables referring to [DXVK_HUD](https://github.com/doitsujin/dxvk#hud).
 
 The `DXVK_D8VK.conf` file is for you to use the environment variables referring to [dxvk](https://github.com/doitsujin/dxvk/blob/master/dxvk.conf).
