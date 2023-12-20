@@ -1,7 +1,9 @@
-#BUG-FIX
+# BUG-FIX
 Added "-legacy-drawing" to fix gray screen issue from [Termux-x11](https://github.com/termux/termux-x11?tab=readme-ov-file#running-graphical-applications).
 Now it Should work.
+
 Note if you already installed Box64droid from original github, you don't need to reinstall it, just change scripts with those from releases.
+
 Note 2: Box64Droid is goes to /data/user/0/com.termux/files/usr/bin 
 And start-box64, start-box64droid goes to /data/user/0/com.termux/files/home/
 
